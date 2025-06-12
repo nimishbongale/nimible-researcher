@@ -1,2 +1,14 @@
-# nimible-researcher
-For quick yet deep research on any topic, use this Nimble Researcher. It will generate a response and improve it based on automated feedback until it meets the requirements.
+---
+title: Nimible Researcher V2
+emoji: 👁
+colorFrom: yellow
+colorTo: red
+sdk: gradio
+sdk_version: 5.33.0
+app_file: app.py
+pinned: false
+license: mit
+short_description: For nimble yet thorough research about any topic
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
