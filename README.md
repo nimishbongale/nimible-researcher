@@ -1,7 +1,3 @@
-# Nimible Researcher 
-
-For nimble yet deep research about any given topic.
-
 ---
 title: Nimible Researcher V2
 emoji: 👁
@@ -14,5 +10,9 @@ pinned: false
 license: mit
 short_description: For nimble yet thorough research about any topic
 ---
+
+# Nimible Researcher 
+
+For nimble yet thorough research about any given topic.
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
