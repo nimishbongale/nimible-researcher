@@ -1,3 +1,7 @@
+# Nimible Researcher 
+
+For nimble yet deep research about any given topic.
+
 ---
 title: Nimible Researcher V2
 emoji: 👁
