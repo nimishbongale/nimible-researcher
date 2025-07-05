@@ -1,1 +1,8 @@
-together
+chainlit==2.5.5
+together==1.5.8
+websockets
+langchain
+wikipedia
+duckduckgo-search
+langchain-together
+langchain-community

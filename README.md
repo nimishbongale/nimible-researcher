@@ -1,18 +1,12 @@
 ---
-title: Nimible Researcher V2
+title: Nimible Researcher V3
 emoji: 👁
 colorFrom: yellow
-colorTo: red
-sdk: gradio
-sdk_version: 5.33.0
-app_file: app.py
+colorTo: purple
+sdk: docker
 pinned: false
 license: mit
-short_description: For nimble yet thorough research about any topic
+short_description: Agentic Truly Deep Research!
 ---
-
-# Nimible Researcher 
-
-For nimble yet thorough research about any given topic.
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
