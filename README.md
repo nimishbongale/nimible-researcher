@@ -1,4 +1,4 @@
----
+![Mermaid Chart - Create complex, visual diagrams with text  A smarter way of creating diagrams -2025-07-06-152058](https://github.com/user-attachments/assets/4f7dcd6e-3e90-44a7-86de-70664225e97e)---
 title: Nimible Researcher V4
 emoji: 👁
 colorFrom: yellow
@@ -32,3 +32,5 @@ lgai/exaone-3-5-32b-instruct
 deepseek-ai/DeepSeek-R1-Distill-Llama-70B-free
 lgai/exaone-deep-32b
 meta-llama/Llama-3.3-70B-Instruct-Turbo-Free
+
+![Uploading Mermaid Chart - Create c<svg id="export-svg" width="100%" xmlns="http://www.w3.org/2000/svg" class="flowchart" style="max-width: 1007.84375px;" viewBox="0 0 1007.84375 745" role="graphics-document document" aria-roledescription="flowchart-v2"><style xmlns="http://www.w3.org/1999/xhtml">/* Copyright 2019 The Recursive Project Authors (github.com/arrowtype/recursive)
