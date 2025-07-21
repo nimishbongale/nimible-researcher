@@ -1,1 +1,7 @@
+chainlit
 together
+websockets
+wikipedia
+langchain
+langchain-together
+langchain-community
